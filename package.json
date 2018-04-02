@@ -1,0 +1,34 @@
+{
+  "name": "electron-angular-starter",
+  "version": "1.0.0",
+  "description": "A minimal Electron application with splash screen by 10sai",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10sai/electron-angular-starter.git"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo",
+    "starter",
+    "10sai",
+    "angularjs",
+    "photonkit"
+  ],
+  "author": "Oshane Williams",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  },
+  "bugs": {
+    "url": "https://github.com/10sai/electron-angular-starter/issues"
+  },
+  "homepage": "https://github.com/10sai/electron-angular-starter#readme",
+  "dependencies": {},
+  "license": "MIT"
+}

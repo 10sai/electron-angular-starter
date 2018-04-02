@@ -1,0 +1,30 @@
+{
+  "name": "electron-angularjs-starter",
+  "description": "A minimal Electron application with splash screen by 10sai",
+  "main": "main.js",
+  "authors": [
+    "Oshane Williams"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo",
+    "starter",
+    "10sai"
+  ],
+  "homepage": "https://github.com/10sai/electron-starter-splash",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.9",
+    "angular-ui-router": "^1.0.15"
+  }
+}
